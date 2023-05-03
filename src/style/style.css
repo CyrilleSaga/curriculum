@@ -1,0 +1,20 @@
+.a4-format {
+  width: 210mm;
+  height: 297mm;
+  margin: 1px 1px;
+  padding: 0;
+  background: #fff;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#personnalInfo {
+  background-color: #e5e5e54e;
+}
+/* Header color: #deeaf6 */
+/* bg avatar color: #deeaf6 */
+/* Side bar bg color: #f1f1f1 */
+/* content bg color: #fefefe */
+/* Bg image color: #e5e5e5 */
