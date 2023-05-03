@@ -6,17 +6,17 @@ This is my CV, written in HTML, CSS and JavaScript.
 
 1. Clone this repository
 
+```bash
+git clone https://github.com/CyrilleSaga/curriculum.git
+```
+
 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-3. Run the app
-
-```bash
-npm start
-```
+3. Run the app with Live Server in from `index.html` file.
 
 4. Open http://localhost:3000 to view it in the browser.
 
