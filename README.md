@@ -16,7 +16,7 @@ git clone https://github.com/CyrilleSaga/curriculum.git
 npm install
 ```
 
-3. Run the app with Live Server in from `index.html` file.
+3. Run the app with Live Server from `index.html` file.
 
 4. Open http://localhost:3000 to view it in the browser.
 
